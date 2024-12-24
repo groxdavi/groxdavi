@@ -1,4 +1,4 @@
 
 programming should be simple
 
-React, Node, Express, MongoDb, React-native, Nextjs,
+React,Zustand, Node, Express, MongoDb, React-native, Nextjs,
